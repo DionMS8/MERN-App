@@ -1,1 +1,1 @@
-# MERN-App
+# MERN-Friends-CRUD-App
